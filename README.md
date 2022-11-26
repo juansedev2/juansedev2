@@ -1,7 +1,7 @@
 ### Hola, soy Juan Sebastian Arias 👋
 ## Te doy la bienvenida a mi perfil de GitHub
 
-**Soy un desarrollador web 👨‍💻 🌐 con énfasis en el desarrollo back-end pero con aspiración a ser full stack, esto debido a que tengo conocimientos tanto en front-end como back-end, lo que me ha permitido conocer ambas fronteras del desarrollo web. Revisando mis repositorios, verás algunos de mis proyectos realizados que he logrado desarrollar en base al proceso de mi formación autodidacta, puesto que ha sido mi principal base de aprendizaje.**
+**Soy un desarrollador web 👨‍💻 🌐 con énfasis en el desarrollo back-end, pero con aspiración a ser full stack, esto debido a que tengo conocimientos tanto en front-end como back-end, lo que me ha permitido conocer ambas fronteras del desarrollo web. Revisando mis repositorios, verás algunos de mis proyectos realizados que he logrado desarrollar en base al proceso de mi formación autodidacta, puesto que ha sido mi principal base de aprendizaje.**
 
 ## Tecnologías Front-end
 1. HTML
