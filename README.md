@@ -23,7 +23,7 @@
 
 __Te invito a visulizar mis proyectos marcados con estrella, algunos de ellos también están en producción.__
 
-**En cuanto a habilidades blandas, el trabajo en equipo es uno de los más destacables que tengo, además de estar orientado al servicio y atención al detalle**
+**En cuanto a habilidades blandas, el trabajo en equipo es uno de los más destacables que tengo, además de estar orientado al servicio y atención al detalle, porque comprendo que hoy en día son fundamentales tenerlas para desarrollar grandes proyectos en equipo**
 
 ## Fin de la introducción a mi perfil
 ## Gracias por leer esta descripción
