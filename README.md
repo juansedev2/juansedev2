@@ -25,8 +25,8 @@ __Te invito a visulizar mis proyectos marcados con estrella, algunos de ellos ta
 
 **En cuanto a habilidades blandas, el trabajo en equipo es uno de los más destacables que tengo, además de estar orientado al servicio y atención al detalle**
 
-##Fin de la introducción a mi perfil
-##Gracias por leer esta descripción
+## Fin de la introducción a mi perfil
+## Gracias por leer esta descripción
 
 <!--
 **juansedev2/juansedev2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
