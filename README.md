@@ -12,8 +12,8 @@
 
 ## Tecnologías Back-end
 1. PHP
-2. Node JS
-3. MySQL
+2. MySQL
+3. Node JS
 4. Python
 
 ## Tecnologías/herramientas adicionales
