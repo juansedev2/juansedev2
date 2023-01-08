@@ -11,10 +11,10 @@
 5. React
 
 ## Tecnologías Back-end
-1. NodeJS
-2. Python
-3. PHP
-4. MySQL
+1. PHP
+2. Node JS
+3. MySQL
+4. Python
 
 ## Tecnologías/herramientas adicionales
 + Git
