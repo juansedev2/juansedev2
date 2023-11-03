@@ -4,10 +4,10 @@ Soy un desarrollador web backend con aspiración a ser full stack, ya que dispon
 
 ## Tecnologías Front-end
 1. ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-2. CSS
-3. JavaScript
-4. Boostrap
-5. jQuery
+2. ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+3. ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+4. ![Static Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+5. ![Static Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ## Tecnologías Back-end
 1. PHP
