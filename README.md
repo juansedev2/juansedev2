@@ -1,19 +1,20 @@
-### Hola, soy Juan Sebastian Arias 👋
-## Te doy la bienvenida a mi perfil de GitHub
-
-**Soy un desarrollador web 👨‍💻 🌐 con aspiración a ser full stack, esto debido a que tengo conocimientos tanto en FrontEnd como BackEnd, lo que me ha permitido conocer ambas fronteras del desarrollo web. Revisando mis repositorios, verás algunos de mis proyectos realizados que he logrado desarrollar en base al proceso de mi formación autodidacta, puesto que ha sido mi principal base de aprendizaje.**
+<h1 align="center">Hola, soy Juan Sebastian Arias 👋, desarollador web 👨‍💻 🌐 </h1>
+<h2 align="center">Te doy la bienvenida a mi perfil de GitHub</h2>
+<p>
+  Soy un desarrollador web backend con aspiración a ser full stack, ya que dispongo de conocimientos tanto en el FrontEnd como el BackEnd, lo que me ha permitido conocer ambas fronteras del desarrollo web. Revisando mis repositorios,   verás algunos de mis proyectos realizados que he logrado desarrollar en base al proceso de mi formación autodidacta, puesto que ha sido mi principal base de aprendizaje. Espero te puedan gustar y estoy abierto ante cualquier retroalimentaciñon
+</p>
 
 ## Tecnologías Front-end
-1. HTML
+1. HTML ![Static Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 2. CSS
 3. JavaScript
 4. Boostrap
-5. React
+5. jQuery
 
 ## Tecnologías Back-end
 1. PHP
 2. MySQL
-3. Node JS
+3. Laravel
 4. Python
 
 ## Tecnologías/herramientas adicionales
