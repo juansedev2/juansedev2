@@ -1,8 +1,7 @@
-<h1 sytle="color:white;" align="center">Hola, soy Juan Sebastian Arias 👋, desarollador web 👨‍💻 🌐 </h1>
-<h2 align="center">Te doy la bienvenida a mi perfil de GitHub</h2>
-<h3>
-  Soy un desarrollador web backend con aspiración a ser full stack, ya que dispongo de conocimientos tanto en el FrontEnd como el BackEnd, lo que me ha permitido conocer ambas fronteras del desarrollo web. Revisando mis repositorios,   verás algunos de mis proyectos realizados que he logrado desarrollar en base al proceso de mi formación autodidacta, puesto que ha sido mi principal base de aprendizaje. Espero te puedan gustar y estoy abierto ante cualquier retroalimentaciñon
-</h3>
+<h1 align="center">#Hola, soy Juan Sebastian Arias 👋, desarollador web 👨‍💻 🌐 </h1>
+<h2 align="center">##Te doy la bienvenida a mi perfil de GitHub</h2>
+
+### Soy un desarrollador web backend con aspiración a ser full stack, ya que dispongo de conocimientos tanto en el FrontEnd como el BackEnd, lo que me ha permitido conocer ambas fronteras del desarrollo web. Revisando mis repositorios,   verás algunos de mis proyectos realizados que he logrado desarrollar en base al proceso de mi formación autodidacta, puesto que ha sido mi principal base de aprendizaje. Espero te puedan gustar y estoy abierto ante cualquier retroalimentaciñon
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge"></a>
