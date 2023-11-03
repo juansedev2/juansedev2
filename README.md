@@ -3,7 +3,7 @@
 Soy un desarrollador web backend con aspiración a ser full stack, ya que dispongo de conocimientos tanto en el FrontEnd como el BackEnd, lo que me ha permitido conocer ambas fronteras del desarrollo web. Revisando mis repositorios,   verás algunos de mis proyectos realizados que he logrado desarrollar en base al proceso de mi formación autodidacta, puesto que ha sido mi principal base de aprendizaje. Espero te puedan gustar y estoy abierto ante cualquier retroalimentaciñon
 
 ## Tecnologías Front-end
-1. HTML ![Static Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+1. ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 2. CSS
 3. JavaScript
 4. Boostrap
