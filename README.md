@@ -1,13 +1,8 @@
 <h1 sytle="color:white;" align="center">Hola, soy Juan Sebastian Arias 👋, desarollador web 👨‍💻 🌐 </h1>
 <h2 align="center">Te doy la bienvenida a mi perfil de GitHub</h2>
-Soy un desarrollador web backend con aspiración a ser full stack, ya que dispongo de conocimientos tanto en el FrontEnd como el BackEnd, lo que me ha permitido conocer ambas fronteras del desarrollo web. Revisando mis repositorios,   verás algunos de mis proyectos realizados que he logrado desarrollar en base al proceso de mi formación autodidacta, puesto que ha sido mi principal base de aprendizaje. Espero te puedan gustar y estoy abierto ante cualquier retroalimentaciñon
-
-## Tecnologías Front-end
-1. ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-2. ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-3. ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-4. ![Static Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-5. ![Static Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+<h3>
+  Soy un desarrollador web backend con aspiración a ser full stack, ya que dispongo de conocimientos tanto en el FrontEnd como el BackEnd, lo que me ha permitido conocer ambas fronteras del desarrollo web. Revisando mis repositorios,   verás algunos de mis proyectos realizados que he logrado desarrollar en base al proceso de mi formación autodidacta, puesto que ha sido mi principal base de aprendizaje. Espero te puedan gustar y estoy abierto ante cualquier retroalimentaciñon
+</h3>
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge"></a>
