@@ -17,7 +17,7 @@ Soy un desarrollador web backend con aspiración a ser full stack, ya que dispon
 **Tecnologías BackEnd**
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=whitE" alt="PHP badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP badge"></a>
   <a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge"></a>
   <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laracvel badge"></a>
 </p>
